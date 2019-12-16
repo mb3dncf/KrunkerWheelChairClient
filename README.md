@@ -1,4 +1,4 @@
-# Krunker_ESP 1.9.2 👁️
+# KrunkerWheelChairClient ♿
 
 <b>Requirements:</b> •Recuires 64 bit [Windows]</br>
 
