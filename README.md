@@ -22,6 +22,14 @@ If your promoting this hack on your channel you can not use ad links on them!
 
 - [x] Esp - thx to (hrt)
 - [x] Box esp
+- [x] Silent Aim
+- [x] Better Sniper Recticle
+- [x] Trace lines
+- [x] Quick Scoper
+- [x] Aim bot
+- [x] Aim assist
+- [x] Trigger bot
+- [x] Perfect Esp
 
 ### Enjoy!
 ______________________________________________________________________________
