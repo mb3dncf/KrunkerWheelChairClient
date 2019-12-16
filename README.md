@@ -14,7 +14,7 @@ Your hack is now working!
 
 **REMEMBER TO NOT BE A EVIL AND PLAY A CLEAN GAME!**
 
-### Have any troubles? Check this video: 
+### Have any troubles? Check this video: "Coming Soon"
 
 If your promoting this hack on your channel you can not use ad links on them!
 
