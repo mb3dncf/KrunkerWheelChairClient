@@ -6,7 +6,7 @@
 ```diff
 ![1.] Download exeisting files as a zip
 ![2.] Extract the zip
-![3.] Download Client.exe from here [Coming Soon]
+![3.] Download Client.exe from here [MEGA.NZ (https://bit.ly/34pDaXJ)] [GOOGLE DRIVE https://bit.ly/2srJNeV]
 ![4.] Cut the Krunker Wheelchair Client.exe and paste it into the unzipped folder!
 ![5.] Launch Krunker Wheelchair Client.exe
 ```
