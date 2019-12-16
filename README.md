@@ -10,6 +10,13 @@
 ![4.] Cut the Krunker Wheelchair Client.exe and paste it into the unzipped folder!
 ![5.] Launch Krunker Wheelchair Client.exe
 ```
+**How to use hack on browser?**
+
+1. [Download this (click here)](https://github.com/hrt/wheelchair/releases/download/2.0/loader.zip)
+2. Navigate to chrome://extensions
+3. Enable developer mode (probably a checkbox in the top right)
+4. Drag the downloaded file into the extensions page (you do not need to extract)
+
 Your hack is now working!
 
 **REMEMBER TO NOT BE A EVIL AND PLAY A CLEAN GAME!**
