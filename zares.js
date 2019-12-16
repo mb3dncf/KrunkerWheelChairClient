@@ -1,4 +1,4 @@
-class Zares {
+class Zares  {
     constructor(e) {
         this.consts = e(0x7);
         this.utils = e(0x8);
