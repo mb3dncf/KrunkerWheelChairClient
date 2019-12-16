@@ -1,3 +1,12 @@
+  
+/*
+ * much nicer injection than what extensions like tampermonkey offer us
+ * great against stack traces (VM:XX rather than ..extension/script.js or userscript..)
+ * sandboxed environment (unmodified native functions)
+ * faster than tamper monkeys "document_start"
+ * injects into all frames with high priority
+*/
+
 cripple_window(window.parent);
 function cripple_window(_window) {
     if (!_window) {
