@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker WheelChair
 // @namespace    https://github.com/hrt
-// @version      1.9.2
+// @version      1.9.
 // @description  WheelChair
 // @author       hrt x ttap
 // @match        https://krunker.io/*
