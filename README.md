@@ -9,6 +9,7 @@
 ![3.] Download Client.exe from here [MEGA.NZ (https://bit.ly/34pDaXJ)] [GOOGLE DRIVE https://bit.ly/2srJNeV]
 ![4.] Cut the Krunker Wheelchair Client.exe and paste it into the unzipped folder!
 ![5.] Launch Krunker Wheelchair Client.exe
+! if your disconnecting use this anti disconnect client [MEGA.NZ(https://bit.ly/2PQKo1S)]
 ```
 **How to use hack on browser?**
 
