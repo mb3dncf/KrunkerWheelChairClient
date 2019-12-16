@@ -1,6 +1,6 @@
 # KrunkerWheelChairClient ♿
 
-<b>Requirements:</b> • Recuires 64 bit [Windows]</br>
+<b>Requirements:</b> • 64 bit [Windows]</br>
 
 **How to use this hack? [Client]**
 ```diff
