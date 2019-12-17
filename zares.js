@@ -380,7 +380,7 @@ class Zares {
             //Menu
             if (this.menu.show) {
                 switch(this.menu.activeMenu) {
-                    case 0: drawMenuItem('♿ Skid'); break;
+                    case 0: drawMenuItem('♿ Zares'); break;
                     case 1: drawMenuItem('Self'); break;
                     case 2: drawMenuItem('Weapon'); break;
                     case 3: drawMenuItem('Visual'); break;
