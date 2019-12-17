@@ -21,7 +21,9 @@ Your hack is now working!
 
 **REMEMBER TO NOT BE A EVIL AND PLAY A CLEAN GAME!**
 
-### Have any troubles? Check this video: "Coming Soon"
+### Have any troubles? Check this video: https://www.youtube.com/watch?v=qduv6fNoSSM
+
+Browser hack made by HRT: https://github.com/hrt/WheelChair
 
 If your promoting this hack on your channel you can not use ad links on them!
 
