@@ -1,4 +1,4 @@
-it should work now
+It's now under rebuild!
 # KrunkerWheelChairClient ♿
 
 <b>Requirements:</b> • 64 bit [Windows]</br>
