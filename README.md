@@ -1,4 +1,4 @@
-working on to fix client bug
+it should work now
 # KrunkerWheelChairClient ♿
 
 <b>Requirements:</b> • 64 bit [Windows]</br>
