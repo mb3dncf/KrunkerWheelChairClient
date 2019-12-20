@@ -1,7 +1,7 @@
 It's now under rebuild!
 # KrunkerWheelChairClient ♿
 
-![banner](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwir3a_w5MPmAhUEyaYKHcV5CjgQjRx6BAgBEAQ&url=https%3A%2F%2Fproxy.zagon.pe%2Fyt%2Fsearch.php%3Fq%3Daimbot%2520hacks%26order%3Drelevance%26type%3Dvideo%26pageToken%3DCDAQAA&psig=AOvVaw1yEUh0GAvNHglEaWuaKJCJ&ust=1576916208650437)
+![banner](https://proxy.zagon.pe/yt/thumbnail.php?type=mqdefault&vid=kNd0rHYHB68)
 
 
 <b>Requirements:</b> • 64 bit [Windows]</br>
